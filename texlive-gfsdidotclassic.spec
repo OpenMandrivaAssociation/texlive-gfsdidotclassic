@@ -1,6 +1,6 @@
 Name:		texlive-gfsdidotclassic
 Version:	52778
-Release:	1
+Release:	2
 Summary:	The classic version of GFSDidot
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gfsdidotclassic
