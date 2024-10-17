@@ -3,7 +3,7 @@ Version:	52778
 Release:	2
 Summary:	The classic version of GFSDidot
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gfsdidotclassic
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gfsdidotclassic
 License:	ofl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gfsdidotclassic.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gfsdidotclassic.doc.r%{version}.tar.xz
